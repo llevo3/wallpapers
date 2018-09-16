@@ -18,29 +18,29 @@
   ],
   "Wallpapers": [ 
     {
-      "name": "wall1",
-      "author": "user1",
+      "name": "No.001",
+      "author": "ABSTRACT",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
-      "collections": "misc,abstract",
+      "collections": "abstract",
       "downloadable": false
     },    
     {
-      "name": "wall2",
-      "author": "use2",
+      "name": "No.002",
+      "author": "NATURE",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg",
       "collections": "nature",
       "downloadable": false
     },    
     {
-      "name": "wall3",
-      "author": "user3",
+      "name": "No.003",
+      "author": "ABSTRACT",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg",
       "collections": "abstract",
       "downloadable": true
     }, 
     {
-      "name": "wall4",
-      "author": "user4",
+      "name": "No.005",
+      "author": "MISC",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg",
       "collections": "misc",
       "downloadable": false
