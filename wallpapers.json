@@ -18,28 +18,28 @@
   ],
   "Wallpapers": [ 
     {
-      "name": "No.001",
+      "name": "001",
       "author": "ABSTRACT",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
       "collections": "abstract",
       "downloadable": false
     },    
     {
-      "name": "No.002",
+      "name": "002",
       "author": "NATURE",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg",
       "collections": "nature",
       "downloadable": false
     },    
     {
-      "name": "No.003",
+      "name": "003",
       "author": "ABSTRACT",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg",
       "collections": "abstract",
       "downloadable": true
     }, 
     {
-      "name": "No.005",
+      "name": "005",
       "author": "MISC",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg",
       "collections": "misc",
