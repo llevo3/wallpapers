@@ -1,0 +1,50 @@
+{
+  "Collections": [
+    {
+      "name": "Abstract",
+      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg"
+    },
+    {
+      "name": "Nature",
+      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg"
+    },
+    {
+      "name": "Misc",
+      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg"
+    },
+  ],
+  "Wallpapers": [ 
+    {
+      "name": "001",
+      "author": "ABSTRACT",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
+      "collections": "abstract",
+      "downloadable": false
+    },    
+    {
+      "name": "002",
+      "author": "NATURE",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },    
+    {
+      "name": "003",
+      "author": "ABSTRACT",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg",
+      "collections": "abstract",
+      "downloadable": true
+    }, 
+    {
+      "name": "005",
+      "author": "MISC",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg",
+      "collections": "misc",
+      "downloadable": false
+    } 
+
+  ]
+}
