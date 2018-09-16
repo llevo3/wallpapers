@@ -2,13 +2,13 @@
   "Collections": [
     {
       "name": "Abstract",
-      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg"
+      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/gplus2973971692496738942.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/gplus2973971692496738942.jpg"
     },
     {
       "name": "Nature",
-      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00100dPORTRAIT_00100_BURST20180506093638511_COVER-01.jpeg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00100dPORTRAIT_00100_BURST20180506093638511_COVER-01.jpeg"
+      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180524093749897-01.jpeg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180524093749897-01.jpeg"
     },
     {
       "name": "Misc",
@@ -20,14 +20,14 @@
     {
       "name": "001",
       "author": "nature",
-      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180508181805656-01.jpeg",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180524093749897-01.jpeg",
       "collections": "nature",
       "downloadable": false
     },    
     {
       "name": "002",
-      "author": "NATURE",
-      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180524093749897-01.jpeg",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180508181805656-01.jpeg",
       "collections": "nature",
       "downloadable": false
     },    
@@ -62,7 +62,7 @@
     {
       "name": "007",
       "author": "abstract",
-      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/gplus2973971692496738942.jpg",
       "collections": "abstract",
       "downloadable": false
     },
@@ -152,7 +152,7 @@
     }, 
     {
       "name": "020",
-      "author": "MISC",
+      "author": "misc",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/IMG_20180609_124620-01.jpeg",
       "collections": "misc",
       "downloadable": false
@@ -433,7 +433,7 @@
          {
       "name": "061",
       "author": "abstract",
-      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/gplus2973971692496738942.jpg",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
       "collections": "abstract",
       "downloadable": false
     }
