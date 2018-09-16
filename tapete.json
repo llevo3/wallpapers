@@ -277,10 +277,80 @@
       "downloadable": false
     }, 
     {
-      "name": "038",
+      "name": "039",
+      "author": "misc",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/123ff.jpg",
+      "collections": "misc",
+      "downloadable": false
+    },
+     {
+      "name": "040",
       "author": "nature",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/IMG_20180724_184024-02.jpeg",
       "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "041",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/152m.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "042",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/166l.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "043",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/168e.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "044",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/326e.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "045",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/326rv.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "046",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/329srven.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "047",
+      "author": "nature",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/34d.jpg",
+      "collections": "nature",
+      "downloadable": false
+    },
+     {
+      "name": "048",
+      "author": "misc",
+      "url": "https://raw.githubusercontent.com/llevo3/substratum_walls/master/drops.jpeg",
+      "collections": "misc",
+      "downloadable": false
+    },
+     {
+      "name": "049",
+      "author": "misc",
+      "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/rain.jpg",
+      "collections": "misc",
       "downloadable": false
     }
 
