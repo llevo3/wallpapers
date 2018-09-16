@@ -1,11 +1,6 @@
 {
   "Collections": [
     {
-      "name": "Amoled",
-      "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg"
-    },
-    {
       "name": "Abstract",
       "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/2.jpg"
@@ -16,7 +11,7 @@
       "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg"
     },
     {
-      "name": "Places",
+      "name": "Misc",
       "preview_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg"
     },
@@ -26,7 +21,7 @@
       "name": "wall1",
       "author": "user1",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/1.jpg",
-      "collections": "featured,abstract",
+      "collections": "misc,abstract",
       "downloadable": false
     },    
     {
@@ -40,14 +35,14 @@
       "name": "wall3",
       "author": "user3",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/3.jpg",
-      "collections": "featured,amoled",
+      "collections": "abstract",
       "downloadable": true
     }, 
     {
       "name": "wall4",
       "author": "user4",
       "url": "https://raw.githubusercontent.com/llevo3/wallpapers/master/5.jpg",
-      "collections": "featured,abstract,amoled",
+      "collections": "misc",
       "downloadable": false
     } 
 
