@@ -1,17 +1,13 @@
+{
+   "nature": [
     {
       "title": "001",
       "author": "by Dejan Baric",
       "image": "https://i.imgur.com/yOiS3Je.jpg",
       "thumb": "https://i.imgur.com/yOiS3Je.jpg",
-    },    
-    {
-      "title": "002",
-      "author": "by Dejan Baric",
-      "image": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180524093749897-01.jpeg",
-      "thumb": "https://raw.githubusercontent.com/llevo3/wallpapers/master/00000PORTRAIT_00000_BURST20180524093749897-01_thumb.jpg",
-    }, 
+    },     
 	{
-      "title": "003",
+      "title": "002",
       "author": "by Dejan Baric",
       "image": "hhttps://i.imgur.com/CujF94z.jpg",
       "thumb": "hhttps://i.imgur.com/CujF94z.jpg",
@@ -33,4 +29,6 @@
       "author": "by Dejan Baric",
       "image": "https://i.imgur.com/KBOIEUJ.jpg",
       "thumb": "https://i.imgur.com/KBOIEUJ.jpg",
-    }, 
+    }
+  ]
+}
