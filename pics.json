@@ -1,5 +1,4 @@
-{
-  "Nature": [ 
+{ 
     {
       "title": "001",
       "author": "by Dejan Baric",
@@ -36,7 +35,4 @@
       "image": "https://i.imgur.com/KBOIEUJ.jpg",
       "thumb": "https://i.imgur.com/KBOIEUJ.jpg",
     }, 
-
-    
-  ]
 }
