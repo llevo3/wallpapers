@@ -1,14 +1,15 @@
-   [
+[
     {
-      "title": "001",
-      "author": "by Dejan Baric",
-      "image": "https://i.imgur.com/yOiS3Je.jpg",
-      "thumb": "https://i.imgur.com/yOiS3Je.jpg",
-    },     
-	{
-      "title": "002",
-      "author": "by Dejan Baric",
-      "image": "hhttps://i.imgur.com/CujF94z.jpg",
-      "thumb": "hhttps://i.imgur.com/CujF94z.jpg",
-    }, 
- ]
+        "title": "001",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/eNdBvrp.jpg"
+	"image": "https://i.imgur.com/eNdBvrp.jpg"
+    },
+    {
+        "title": "002",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/mfLD76m.jpg"
+	"image": "https://i.imgur.com/mfLD76m.jpg"
+    },
+    
+]
