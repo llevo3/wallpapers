@@ -2,6 +2,18 @@
     {
         "title": "001",
         "author": "Dejan",
+	"thumb": "https://i.imgur.com/H617kv7.jpg",
+	"image": "https://i.imgur.com/CujF94z.jpg"
+    },
+    {
+        "title": "002",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/wCw9Ens.jpg",
+	"image": "https://i.imgur.com/1zWjeLE.jpg"
+    },
+    {
+        "title": "001",
+        "author": "Dejan",
 	"thumb": "https://i.imgur.com/S39juED.jpg",
 	"image": "https://i.imgur.com/eNdBvrp.jpg"
     },
@@ -196,6 +208,12 @@
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/tHOyjiu.jpg",
 	"image": "https://i.imgur.com/3xeXPfR.jpg"
+    },
+    {
+        "title": "034",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/mZ3oq95.jpg",
+	"image": "https://i.imgur.com/ygUEe2X.jpg"
     },
     {
         "title": "034",
