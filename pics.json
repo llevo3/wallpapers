@@ -12,12 +12,6 @@
 	"image": "https://i.imgur.com/1zWjeLE.jpg"
     },
     {
-        "title": "001",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/S39juED.jpg",
-	"image": "https://i.imgur.com/eNdBvrp.jpg"
-    },
-    {
         "title": "002",
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/5xzjPje.jpg",
@@ -28,6 +22,12 @@
         "author": "Suza",
 	"thumb": "https://i.imgur.com/9XrgE0K.jpg",
 	"image": "https://i.imgur.com/m1PZkxQ.jpg"
+    },
+    {
+        "title": "009",
+        "author": "Suza",
+	"thumb": "https://i.imgur.com/WOFV7QW.jpg",
+	"image": "https://i.imgur.com/SXH1SAl.jpg"
     },
     {
         "title": "004",
@@ -60,12 +60,6 @@
 	"image": "https://i.imgur.com/glQImYW.jpg"
     },
     {
-        "title": "009",
-        "author": "Suza",
-	"thumb": "https://i.imgur.com/WOFV7QW.jpg",
-	"image": "https://i.imgur.com/SXH1SAl.jpg"
-    },
-    {
         "title": "010",
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/XpClCV9.jpg",
@@ -78,9 +72,21 @@
 	"image": "https://i.imgur.com/uVqPj6f.jpg"
     },
     {
+        "title": "019",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/Ch86mpe.jpg",
+	"image": "https://i.imgur.com/0DNm0ic.jpg"
+    },
+    {
         "title": "012",
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/deXu6we.jpg",
+	"image": "https://i.imgur.com/orujKfE.jpg"
+    },
+    {
+        "title": "021",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/HPW9Xki.jpg",
 	"image": "https://i.imgur.com/orujKfE.jpg"
     },
     {
@@ -94,6 +100,12 @@
         "author": "Suza",
 	"thumb": "https://i.imgur.com/A62hCvj.jpg",
 	"image": "https://i.imgur.com/PvqsP46.jpg"
+    },
+    {
+        "title": "022",
+        "author": "Dejan",
+	"thumb": "https://i.imgur.com/wBV9Eao.jpg",
+	"image": "https://i.imgur.com/v3Tl4U5.jpg"
     },
     {
         "title": "015",
@@ -120,34 +132,16 @@
 	"image": "https://i.imgur.com/FQ1d8H4.jpg"
     },
     {
-        "title": "019",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/Ch86mpe.jpg",
-	"image": "https://i.imgur.com/0DNm0ic.jpg"
-    },
-    {
         "title": "020",
         "author": "Suza",
 	"thumb": "https://i.imgur.com/p3q2tqR.jpg",
 	"image": "https://i.imgur.com/yOiS3Je.jpg"
     },
     {
-        "title": "021",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/HPW9Xki.jpg",
-	"image": "https://i.imgur.com/orujKfE.jpg"
-    },
-    {
         "title": "022",
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/7uAJoNz.jpg",
 	"image": "https://i.imgur.com/qe3cyql.jpg"
-    },
-    {
-        "title": "022",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/wBV9Eao.jpg",
-	"image": "https://i.imgur.com/v3Tl4U5.jpg"
     },
     {
         "title": "023",
@@ -214,18 +208,6 @@
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/tHOyjiu.jpg",
 	"image": "https://i.imgur.com/3xeXPfR.jpg"
-    },
-    {
-        "title": "034",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/mZ3oq95.jpg",
-	"image": "https://i.imgur.com/ygUEe2X.jpg"
-    },
-    {
-        "title": "034",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/CWiUolC.jpg",
-	"image": "https://i.imgur.com/VbXGA7N.jpg"
     },
     {
         "title": "035",
@@ -316,12 +298,6 @@
         "author": "Dejan",
 	"thumb": "https://i.imgur.com/x7JzKvN.jpg",
 	"image": "https://i.imgur.com/xWWkN3X.jpg"
-    },
-    {
-        "title": "050",
-        "author": "Suza",
-	"thumb": "https://i.imgur.com/guiYz0M.jpg",
-	"image": "https://i.imgur.com/ieDu9UA.jpg"
     },
     {
         "title": "051",
@@ -418,12 +394,6 @@
         "author": "Suza",
 	"thumb": "https://i.imgur.com/O2PCmeR.jpg",
 	"image": "https://i.imgur.com/2v7lt7J.jpg"
-    },
-    {
-        "title": "068",
-        "author": "Dejan",
-	"thumb": "https://i.imgur.com/OSkn9I2.jpg",
-	"image": "https://i.imgur.com/vuBmJPE.jpg"
     },
     {
         "title": "069",
