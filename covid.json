@@ -1,4 +1,12 @@
 [
+	{
+        "world": "World",
+        "world_total_cases": "1.040.664",
+	      "world_new_cases": "25.599",
+	      "world_total_deaths": "55.191",
+        "world_new_deaths": "2.024",
+        "world_total_recovered": "222.240"
+    },
     {
         "country": "USA",
         "total_cases": "245.442",
