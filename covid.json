@@ -47,6 +47,46 @@
         "new_deaths": "4",
         "total_recovered": "76.571"
     },
+	{
+        "country": "France",
+        "total_cases": "59.105",
+	"new_cases": "",
+	"total_deaths": "5.387",
+        "new_deaths": "",
+        "total_recovered": "12.428"
+    },
+	{
+        "country": "Iran",
+        "total_cases": "53.183",
+	"new_cases": "2.715",
+	"total_deaths": "3.294",
+        "new_deaths": "134",
+        "total_recovered": "17.935"
+    },
+	{
+        "country": "UK",
+        "total_cases": "38.168",
+	"new_cases": "4.450",
+	"total_deaths": "3.605",
+        "new_deaths": "684",
+        "total_recovered": "135"
+    },
+	{
+        "country": "Switzerland",
+        "total_cases": "19.303",
+	"new_cases": "476",
+	"total_deaths": "573",
+        "new_deaths": "37",
+        "total_recovered": "4.846"
+    },
+	{
+        "country": "Turkey",
+        "total_cases": "18.135",
+	"new_cases": "",
+	"total_deaths": "356",
+        "new_deaths": "",
+        "total_recovered": "415"
+    },
   {
         "country": "Serbia",
         "total_cases": "1.476",
