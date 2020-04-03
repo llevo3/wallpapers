@@ -112,7 +112,7 @@
         "total_recovered": "70"
     },
 	{
-        "country": "Bosnia and Herzegovina",
+        "country": "BIH",
         "total_cases": "568",
 	"new_cases": "35",
 	"total_deaths": "17",
@@ -120,7 +120,7 @@
         "total_recovered": "27"
     },
 	{
-        "country": "N.Macedonia",
+        "country": "Macedonia",
         "total_cases": "430",
 	"new_cases": "46",
 	"total_deaths": "11",
