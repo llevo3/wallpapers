@@ -1,11 +1,11 @@
 [
     {
         "country": "World",
-        "total_cases": "1.133.455",
-	"new_cases": "16.812",
-	"total_deaths": "60.318",
-        "new_deaths": "1.223",
-        "total_recovered": "236.000"
+        "total_cases": "1.133.967",
+	"new_cases": "17.324",
+	"total_deaths": "60.408",
+        "new_deaths": "1.250",
+        "total_recovered": "236.083"
     },
     {
         "country": "USA",
