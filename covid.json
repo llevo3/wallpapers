@@ -5,7 +5,8 @@
 	"new_cases": "72.309",
 	"total_deaths": "58.392",
         "new_deaths": "5.225",
-        "total_recovered": "228.001"
+        "total_recovered": "228.001",
+	"date": "03 April, 2020"
     },
     {
         "country": "USA",
