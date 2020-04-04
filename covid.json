@@ -1,11 +1,11 @@
 [
     {
         "country": "World",
-        "total_cases": "1.133.967",
-	"new_cases": "17.324",
-	"total_deaths": "60.408",
-        "new_deaths": "1.250",
-        "total_recovered": "236.083"
+        "total_cases": "1.138.357",
+	"new_cases": "21.714",
+	"total_deaths": "61.141",
+        "new_deaths": "1.983",
+        "total_recovered": "236.157"
     },
     {
         "country": "USA",
@@ -33,10 +33,10 @@
     },
   {
         "country": "Germany",
-        "total_cases": "90.964",
-	"new_cases": "6.170",
-	"total_deaths": "1.234",
-        "new_deaths": "127",
+        "total_cases": "91.589",
+	"new_cases": "430",
+	"total_deaths": "1.293",
+        "new_deaths": "18",
         "total_recovered": "24.575"
     },
 	{
@@ -65,10 +65,10 @@
     },
 	{
         "country": "UK",
-        "total_cases": "38.168",
-	"new_cases": "4.450",
-	"total_deaths": "3.605",
-        "new_deaths": "684",
+        "total_cases": "41.903",
+	"new_cases": "3.735",
+	"total_deaths": "4.313",
+        "new_deaths": "708",
         "total_recovered": "135"
     },
 	{
@@ -89,11 +89,11 @@
     },
   {
         "country": "Serbia",
-        "total_cases": "1.476",
-	"new_cases": "305",
-	"total_deaths": "39",
-        "new_deaths": "8",
-        "total_recovered": "42"
+        "total_cases": "1.624",
+	"new_cases": "148",
+	"total_deaths": "44",
+        "new_deaths": "5",
+        "total_recovered": "54"
     },
 	{
         "country": "Croatia",
