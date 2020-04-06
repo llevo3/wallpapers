@@ -1,59 +1,59 @@
 [
     {
         "country": "World",
-        "total_cases": "1.225.047",
-	"new_cases": "23.594",
-	"total_deaths": "66.503",
-        "new_deaths": "1.815",
-        "total_recovered": "253.855"
+        "total_cases": "1.277.196",
+	"new_cases": "4.334",
+	"total_deaths": "69.567",
+        "new_deaths": "142",
+        "total_recovered": "266.458"
     },
     {
         "country": "USA",
-        "total_cases": "311.656",
-	"new_cases": "299",
-	"total_deaths": "8.454",
-        "new_deaths": "2",
-        "total_recovered": "14.828"
+        "total_cases": "336.851",
+	"new_cases": "178",
+	"total_deaths": "9.620",
+        "new_deaths": "4",
+        "total_recovered": "17.977"
     },
 	{
         "country": "Spain",
-        "total_cases": "130.759",
-	"new_cases": "4.591",
-	"total_deaths": "12.418",
-        "new_deaths": "471",
+        "total_cases": "131.646",
+	"new_cases": "",
+	"total_deaths": "12.641",
+        "new_deaths": "",
         "total_recovered": "38.080"
     },
 	{
         "country": "Italy",
-        "total_cases": "124.632",
+        "total_cases": "128.948",
 	"new_cases": "",
-	"total_deaths": "15.362",
+	"total_deaths": "15.887",
         "new_deaths": "",
-        "total_recovered": "20.996"
+        "total_recovered": "21.815"
     },
   {
         "country": "Germany",
-        "total_cases": "97.074",
-	"new_cases": "982",
-	"total_deaths": "1.478",
-        "new_deaths": "34",
-        "total_recovered": "26.400"
+        "total_cases": "100.123",
+	"new_cases": "",
+	"total_deaths": "1.584",
+        "new_deaths": "",
+        "total_recovered": "28.700"
     },
 	{
         "country": "France",
-        "total_cases": "89.953",
+        "total_cases": "92.839",
 	"new_cases": "",
-	"total_deaths": "7.560",
+	"total_deaths": "8.078",
         "new_deaths": "",
-        "total_recovered": "15.438"
+        "total_recovered": "16.183"
     },
   {
         "country": "China",
-        "total_cases": "81.669",
-	"new_cases": "30",
-	"total_deaths": "3.329",
-        "new_deaths": "3",
-        "total_recovered": "76.964"
+        "total_cases": "81.708",
+	"new_cases": "39",
+	"total_deaths": "3.331",
+        "new_deaths": "2",
+        "total_recovered": "77.078"
     },
 	{
         "country": "Iran",
@@ -73,19 +73,19 @@
     },
 	{
         "country": "Turkey",
-        "total_cases": "23.934",
+        "total_cases": "27.069",
 	"new_cases": "",
-	"total_deaths": "501",
+	"total_deaths": "574",
         "new_deaths": "",
-        "total_recovered": "786"
+        "total_recovered": "1.042"
     },
 	{
         "country": "Switzerland",
-        "total_cases": "21.100",
-	"new_cases": "595",
-	"total_deaths": "685",
-        "new_deaths": "19",
-        "total_recovered": "6.415"
+        "total_cases": "21.176",
+	"new_cases": "76",
+	"total_deaths": "724",
+        "new_deaths": "9",
+        "total_recovered": "7.298"
     },
   {
         "country": "Serbia",
@@ -113,11 +113,11 @@
     },
 	{
         "country": "Bosnia and Herzegovina",
-        "total_cases": "654",
-	"new_cases": "30",
-	"total_deaths": "21",
-        "new_deaths": "",
-        "total_recovered": "30"
+        "total_cases": "667",
+	"new_cases": "13",
+	"total_deaths": "26",
+        "new_deaths": "3",
+        "total_recovered": "44"
     },
 	{
         "country": "North Macedonia",
@@ -129,8 +129,8 @@
     },
 	{
         "country": "Montenegro",
-        "total_cases": "203",
-	"new_cases": "2",
+        "total_cases": "223",
+	"new_cases": "9",
 	"total_deaths": "2",
         "new_deaths": "0",
         "total_recovered": "1"
