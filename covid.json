@@ -1,27 +1,27 @@
 [
     {
         "country": "World",
-        "total_cases": "1.414.127",
-	"new_cases": "68.123",
-	"total_deaths": "81.217",
-        "new_deaths": "6.563",
-        "total_recovered": "301.166"
+        "total_cases": "1.448.564",
+	"new_cases": "17.645",
+	"total_deaths": "83.416",
+        "new_deaths": "1.382",
+        "total_recovered": "309.310"
     },
     {
         "country": "USA",
-        "total_cases": "388.336",
-	"new_cases": "21.332",
-	"total_deaths": "12.393",
-        "new_deaths": "1.522",
-        "total_recovered": "21.316"
+        "total_cases": "400.549",
+	"new_cases": "214",
+	"total_deaths": "12.857",
+        "new_deaths": "16",
+        "total_recovered": "21.711"
     },
 	{
         "country": "Spain",
-        "total_cases": "140.511",
-	"new_cases": "3.836",
-	"total_deaths": "13.897",
-        "new_deaths": "556",
-        "total_recovered": "43.208"
+        "total_cases": "146.690",
+	"new_cases": "4.748",
+	"total_deaths": "14.555",
+        "new_deaths": "510",
+        "total_recovered": "48.021"
     },
 	{
         "country": "Italy",
@@ -41,26 +41,26 @@
     },
   {
         "country": "Germany",
-        "total_cases": "107.458",
-	"new_cases": "4.083",
+        "total_cases": "107.663",
+	"new_cases": "",
 	"total_deaths": "1.983",
-        "new_deaths": "173",
-        "total_recovered": "6.081"
+        "new_deaths": "",
+        "total_recovered": "36.081"
     },
   {
         "country": "China",
-        "total_cases": "81.740",
-	"new_cases": "32",
-	"total_deaths": "3.331",
+        "total_cases": "81.802",
+	"new_cases": "62",
+	"total_deaths": "3.333",
         "new_deaths": "2",
-        "total_recovered": "77.167"
+        "total_recovered": "77.279"
     },
 	{
         "country": "Iran",
-        "total_cases": "62.589",
-	"new_cases": "2.089",
-	"total_deaths": "3.872",
-        "new_deaths": "133",
+        "total_cases": "64.586",
+	"new_cases": "1.997",
+	"total_deaths": "3.993",
+        "new_deaths": "121",
         "total_recovered": "27.039"
     },
 	{
@@ -80,57 +80,57 @@
         "total_recovered": "1.582"
     },
 	{
-        "country": "Switzerland",
-        "total_cases": "22.253",
-	"new_cases": "596",
-	"total_deaths": "821",
-        "new_deaths": "56",
-        "total_recovered": "8.704"
+        "country": "Belgium",
+        "total_cases": "23.403",
+	"new_cases": "1.209",
+	"total_deaths": "2.240",
+        "new_deaths": "205",
+        "total_recovered": "4.681"
     },
   {
         "country": "Serbia",
-        "total_cases": "2.447",
-	"new_cases": "247",
-	"total_deaths": "61",
-        "new_deaths": "3",
+        "total_cases": "2.666",
+	"new_cases": "219",
+	"total_deaths": "65",
+        "new_deaths": "4",
         "total_recovered": "118"
     },
 	{
         "country": "Croatia",
-        "total_cases": "1.282",
-	"new_cases": "60",
-	"total_deaths": "15",
-        "new_deaths": "2",
-        "total_recovered": "167"
+        "total_cases": "1.343",
+	"new_cases": "61",
+	"total_deaths": "19",
+        "new_deaths": "1",
+        "total_recovered": "179"
     },
 	{
         "country": "Slovenia",
-        "total_cases": "1.059",
-	"new_cases": "38",
-	"total_deaths": "36",
-        "new_deaths": "6",
-        "total_recovered": "102"
+        "total_cases": "1.091",
+	"new_cases": "32",
+	"total_deaths": "40",
+        "new_deaths": "4",
+        "total_recovered": "120"
     },
 	{
         "country": "Bosnia and Herzegovina",
-        "total_cases": "764",
-	"new_cases": "90",
+        "total_cases": "794",
+	"new_cases": "30",
 	"total_deaths": "33",
-        "new_deaths": "4",
-        "total_recovered": "68"
+        "new_deaths": "0",
+        "total_recovered": "77"
     },
 	{
         "country": "North Macedonia",
-        "total_cases": "599",
-	"new_cases": "29",
-	"total_deaths": "26",
+        "total_cases": "617",
+	"new_cases": "18",
+	"total_deaths": "29",
         "new_deaths": "3",
-        "total_recovered": "30"
+        "total_recovered": "35"
     },
 	{
         "country": "Montenegro",
-        "total_cases": "241",
-	"new_cases": "8",
+        "total_cases": "248",
+	"new_cases": "7",
 	"total_deaths": "2",
         "new_deaths": "0",
         "total_recovered": "4"
