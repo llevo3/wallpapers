@@ -2,14 +2,11 @@
 	{
 		"name": "1",
 		"url": "https://i.imgur.com/tUlSRPs.jpg",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
 		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
 	{
 		"name": "2",
-		"author": "De Jan",
 		"url": "https://i.imgur.com/u3Ns3yy.jpg",
-		"downloadable": false,
+		"downloadable": true,
 	}
 ]
